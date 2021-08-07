@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LearnningApp/static/css/main.a617e044.chunk.css",
+    "main.js": "/LearnningApp/static/js/main.577aafdc.chunk.js",
+    "main.js.map": "/LearnningApp/static/js/main.577aafdc.chunk.js.map",
+    "runtime-main.js": "/LearnningApp/static/js/runtime-main.ec4e404f.js",
+    "runtime-main.js.map": "/LearnningApp/static/js/runtime-main.ec4e404f.js.map",
+    "static/js/2.f6cf7cf7.chunk.js": "/LearnningApp/static/js/2.f6cf7cf7.chunk.js",
+    "static/js/2.f6cf7cf7.chunk.js.map": "/LearnningApp/static/js/2.f6cf7cf7.chunk.js.map",
+    "static/js/3.8c2139a7.chunk.js": "/LearnningApp/static/js/3.8c2139a7.chunk.js",
+    "static/js/3.8c2139a7.chunk.js.map": "/LearnningApp/static/js/3.8c2139a7.chunk.js.map",
+    "index.html": "/LearnningApp/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/LearnningApp/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.f6cf7cf7.chunk.js.LICENSE.txt": "/LearnningApp/static/js/2.f6cf7cf7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec4e404f.js",
+    "static/js/2.f6cf7cf7.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.577aafdc.chunk.js"
+  ]
+}
